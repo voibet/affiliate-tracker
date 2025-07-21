@@ -150,5 +150,9 @@
   {
     "wallet": "0x5f7C1Ade486eF52D03F38F6363585079f8dd229c",
     "frontendName": "Pinwin"
+  },
+  {
+    "wallet": "0x9ca5C8a07A49E0085Ca17661335331CF5B5bd72E",
+    "frontendName": "voi.bet"
   }
 ]
